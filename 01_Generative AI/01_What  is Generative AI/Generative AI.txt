@@ -1,0 +1,34 @@
+
+     What is Generative AI??
+
+generative AI is type of artificial Intelligence that can create new content 
+like: Texts, Images, Voices, Videoes, Articles,  Blog
+
+It Learns Patterns from massive datasets and uses them to generate novels outputs 
+Artificial Intelligence Making sysytems work on intelligence AI is done by  machine learning and
+Maachine learning is Trained System Based on past data
+
+AI -------->> ML ---------->> DL
+Generative AI answerd our outputs by using machine learning(ML) and deep learning(DL)
+
+
+Generative AI k name se he pata chal rha hai h k that can generate
+
+Example: ek bacha hai usne drawing sekhi
+pehele wo bohht se drwaring dekhtha hai (AI training  data)
+phir khud se new ideas try krta hai (AI Generation)
+
+isi trah GenAI b apnay past data se sekhta hai h or kuch unique or nai chezen bnata hai 
+Example: Content Creation
+              Designs,  
+             Adds and marketing for bussiness 
+            Education and Programming 
+            
+
+
+
+
+
+
+
+ 
