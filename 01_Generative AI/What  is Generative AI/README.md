@@ -8,7 +8,7 @@ Generative AI refers to a type of **artificial intelligence** that creates new c
 
 Generative AI works by analyzing large amounts of data and learning patterns. This allows it to **create new things** that are similar to the data it has learned from, but not exact copies.
 
-![AI Workflow](ai workflow.jpg)
+![AI Workflow](ai_workflow.jpg)
 
 ### Examples of Generative AI Tools
 

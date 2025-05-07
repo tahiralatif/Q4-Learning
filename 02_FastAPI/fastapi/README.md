@@ -18,7 +18,7 @@ This is a backend API project built with [FastAPI](https://fastapi.tiangolo.com/
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/tahiralatif/Q4-Learning/tree/main/02_FastAPI/fastapi>
    cd <project-directory>
    ```
 
