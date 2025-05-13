@@ -1,0 +1,11 @@
+[project]
+name = "fastdca-p1"
+version = "0.1.0"
+description = "FastAPI project demonstrating Pydantic validation techniques including basic models, field constraints, and nested models"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+    "email-validator>=2.1.0",
+    "uvicorn>=0.27.0",
+]
